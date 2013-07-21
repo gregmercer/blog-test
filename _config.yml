@@ -1,5 +1,5 @@
 name: My Jekyll Site
 markdown: redcarpet
 pygments: true
-baseurl: /blog-test-jekyll
+baseurl: /blog-test
 test: This is a test.
