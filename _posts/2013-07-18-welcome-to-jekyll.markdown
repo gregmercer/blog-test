@@ -9,6 +9,9 @@ categories: blog-test update
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
 
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 
